@@ -1,0 +1,30 @@
+[
+  {
+    "avatar": "http://localhost:3001/images/avatar-bg.png",
+    "name": "Dr. Faith Achieng",
+    "comment": "This platform has transformed how we connect with potential funders. Our research now gets the visibility it truly deserves.",
+    "title": "Lead Researcher, KEMRI",
+    "rating": 5
+  },
+  {
+    "avatar": "http://localhost:3001/images/avatar-bg.png",
+    "name": "Michael Otieno",
+    "comment": "I was able to contribute to a cause I believe in. The transparency and impact updates are top-notch.",
+    "title": "Philanthropist & Donor",
+    "rating": 4
+  },
+  {
+    "avatar": "http://localhost:3001/images/avatar-bg.png",
+    "name": "Prof. Linda Wanjiru",
+    "comment": "An innovative solution for African researchers. The funding process has never been this accessible.",
+    "title": "Dean of Research, University of Nairobi",
+    "rating": 5
+  },
+  {
+    "avatar": "http://localhost:3001/images/avatar-bg.png",
+    "name": "James Mwangi",
+    "comment": "I appreciate how the platform prioritizes real science and gives researchers a direct line to supporters.",
+    "title": "Tech Entrepreneur & Angel Investor",
+    "rating": 4
+  }
+]

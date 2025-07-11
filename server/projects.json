@@ -1,0 +1,292 @@
+[
+  {
+    "id": "1",
+    "title": "AI-Powered Drug Discovery",
+    "researcher": {
+      "name": "Dr. Alice Mwangi",
+      "affiliation": "Kenya Medical Research Institute (KEMRI)",
+      "image": "http://localhost:3001/images/person-outline.png"
+    },
+    "image": "http://localhost:3001/images/background4.png",
+    "funding": {
+      "percentage": 75,
+      "raised": 75000,
+      "goal": 100000,
+      "days_left": 15
+    },
+    "description": "This project explores using AI to accelerate drug discovery pipelines.",
+    "body": "This project is a groundbreaking initiative that merges artificial intelligence and biomedical research to transform how drugs are discovered and tested. Leveraging state-of-the-art generative algorithms, predictive analytics, and molecular simulation, our team has accelerated the identification and validation of potential drug candidates. This new framework not only reduces time-to-market but also improves cost efficiency in early-stage pharmaceutical research. Our approach prioritizes target specificity and minimizes adverse effects through rigorous simulation and preclinical validation. In partnership with several global research hubs and clinical laboratories, we have begun conducting trials on select compounds with promising results. The project also explores novel machine learning techniques to analyze large datasets of genomic and phenotypic information, further refining our predictions. As we enter the next phase of development, we are focused on building scalable pipelines, obtaining regulatory clearance, and fostering collaborative innovation. This is a crucial step toward democratizing access to affordable treatments worldwide and setting a new benchmark for intelligent healthcare solutions. This initiative is led by a multidisciplinary team of experts committed to advancing science through innovation and inclusive practices. The ongoing work has already attracted interest from key industry stakeholders and policy advocates.",
+    "illustration":"http://localhost:3001/images/project-image1.png",
+    "labNotes": [
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Clinical Validation",
+        "description": "Validated vaccine results with a test group over a 2-week trial period."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Climate Change Impact on Crops",
+    "researcher": {
+      "name": "Prof. John Kimani",
+      "affiliation": "University of Nairobi",
+      "image": "http://localhost:3001/images/person-outline.png"
+    },
+    "image": "http://localhost:3001/images/background.png",
+    "funding": {
+      "percentage": 40,
+      "raised": 40000,
+      "goal": 100000,
+      "days_left": 30
+    },
+    "description": "Investigating the effect of rising temperatures on agricultural yields.",
+    "body": "Our research delves into the growing impacts of climate change on staple crops across varied geographies in East Africa. The study employs machine learning models trained on climatic, satellite, and crop-yield data spanning the past 30 years to understand and predict future agricultural trends. A key innovation lies in our integration of genomic data with environmental models to identify resilient crop varieties that thrive under extreme conditions. Collaborating with agricultural institutions and field workers, we collect real-time data from test farms to validate model predictions. We aim to produce an open-access decision support tool that guides farmers and policymakers in adapting to climate variability. Additional focus is placed on analyzing socio-economic impacts and ensuring solutions are accessible to smallholder farmers. By using predictive analytics and participatory research, this project aspires to offer climate-smart farming recommendations. Our broader goal is to mitigate food insecurity while empowering communities through knowledge, tools, and data-driven insights that encourage sustainable agriculture practices. This initiative is led by a multidisciplinary team of experts committed to advancing science through innovation and inclusive practices. The ongoing work has already attracted interest from key industry stakeholders and policy advocates.",
+    "illustration":"http://localhost:3001/images/project-image2.png",
+    "labNotes": [
+      {
+         "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Data Preprocessing",
+        "description": "Performed statistical normalization and removed outliers from raw sensor data."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Nanotech for Cancer Treatment",
+    "researcher": {
+      "name": "Dr. Grace Otieno",
+      "affiliation": "Moi University School of Medicine",
+      "image": "http://localhost:3001/images/person-outline.png"
+    },
+    "image": "http://localhost:3001/images/background1.png",
+    "funding": {
+      "percentage": 60,
+      "raised": 60000,
+      "goal": 100000,
+      "days_left": 20
+    },
+    "description": "Using nanotechnology to improve chemotherapy targeting.",
+    "body": "This project is a groundbreaking initiative that merges artificial intelligence and biomedical research to transform how drugs are discovered and tested. Leveraging state-of-the-art generative algorithms, predictive analytics, and molecular simulation, our team has accelerated the identification and validation of potential drug candidates. This new framework not only reduces time-to-market but also improves cost efficiency in early-stage pharmaceutical research. Our approach prioritizes target specificity and minimizes adverse effects through rigorous simulation and preclinical validation. In partnership with several global research hubs and clinical laboratories, we have begun conducting trials on select compounds with promising results. The project also explores novel machine learning techniques to analyze large datasets of genomic and phenotypic information, further refining our predictions. As we enter the next phase of development, we are focused on building scalable pipelines, obtaining regulatory clearance, and fostering collaborative innovation. This is a crucial step toward democratizing access to affordable treatments worldwide and setting a new benchmark for intelligent healthcare solutions. This initiative is led by a multidisciplinary team of experts committed to advancing science through innovation and inclusive practices. The ongoing work has already attracted interest from key industry stakeholders and policy advocates.",
+    "illustration":"http://localhost:3001/images/project-image.png",
+    "labNotes": [
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Clinical Validation",
+        "description": "Validated vaccine results with a test group over a 2-week trial period."
+      },
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Stakeholder Review",
+        "description": "Presented findings to community partners and received constructive feedback."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Water Purification in Rural Kenya",
+    "researcher": {
+      "name": "Dr. Peter Njoroge",
+      "affiliation": "Egerton University",
+      "image": "http://localhost:3001/images/person-outline.png"
+    },
+    "image": "http://localhost:3001/images/bgResearch5.jpg",
+    "funding": {
+      "percentage": 85,
+      "raised": 85000,
+      "goal": 100000,
+      "days_left": 10
+    },
+    "description": "Designing affordable water purification systems for remote areas.",
+    "body": "Our research delves into the growing impacts of climate change on staple crops across varied geographies in East Africa. The study employs machine learning models trained on climatic, satellite, and crop-yield data spanning the past 30 years to understand and predict future agricultural trends. A key innovation lies in our integration of genomic data with environmental models to identify resilient crop varieties that thrive under extreme conditions. Collaborating with agricultural institutions and field workers, we collect real-time data from test farms to validate model predictions. We aim to produce an open-access decision support tool that guides farmers and policymakers in adapting to climate variability. Additional focus is placed on analyzing socio-economic impacts and ensuring solutions are accessible to smallholder farmers. By using predictive analytics and participatory research, this project aspires to offer climate-smart farming recommendations. Our broader goal is to mitigate food insecurity while empowering communities through knowledge, tools, and data-driven insights that encourage sustainable agriculture practices. This initiative is led by a multidisciplinary team of experts committed to advancing science through innovation and inclusive practices. The ongoing work has already attracted interest from key industry stakeholders and policy advocates.",
+    "illustration":"http://localhost:3001/images/project-image5.png",
+    "labNotes": [
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Stakeholder Review",
+        "description": "Presented findings to community partners and received constructive feedback."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Renewable Energy Storage Solutions",
+    "researcher": {
+      "name": "Dr. Mary Wambui",
+      "affiliation": "Jomo Kenyatta University of Agriculture and Technology (JKUAT)",
+      "image": "http://localhost:3001/images/person-outline.png"
+    },
+    "image": "http://localhost:3001/images/bgResearch3.png",
+    "funding": {
+      "percentage": 20,
+      "raised": 20000,
+      "goal": 100000,
+      "days_left": 45
+    },
+    "description": "Developing efficient battery systems for solar and wind energy.",
+    "body": "This project is a groundbreaking initiative that merges artificial intelligence and biomedical research to transform how drugs are discovered and tested. Leveraging state-of-the-art generative algorithms, predictive analytics, and molecular simulation, our team has accelerated the identification and validation of potential drug candidates. This new framework not only reduces time-to-market but also improves cost efficiency in early-stage pharmaceutical research. Our approach prioritizes target specificity and minimizes adverse effects through rigorous simulation and preclinical validation. In partnership with several global research hubs and clinical laboratories, we have begun conducting trials on select compounds with promising results. The project also explores novel machine learning techniques to analyze large datasets of genomic and phenotypic information, further refining our predictions. As we enter the next phase of development, we are focused on building scalable pipelines, obtaining regulatory clearance, and fostering collaborative innovation. This is a crucial step toward democratizing access to affordable treatments worldwide and setting a new benchmark for intelligent healthcare solutions. This initiative is led by a multidisciplinary team of experts committed to advancing science through innovation and inclusive practices. The ongoing work has already attracted interest from key industry stakeholders and policy advocates.",
+    "illustration":"http://localhost:3001/images/project-image10.png",
+    "labNotes": [
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Pilot Deployment",
+        "description": "Installed prototype devices in rural communities for performance monitoring."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Malaria Vaccine Efficacy Study",
+    "researcher": {
+      "name": "Dr. Kevin Omondi",
+      "affiliation": "KEMRI-Wellcome Trust Research Programme",
+      "image": "http://localhost:3001/images/person-outline.png"
+    },
+    "image": "http://localhost:3001/images/background4.png",
+    "funding": {
+      "percentage": 50,
+      "raised": 50000,
+      "goal": 100000,
+      "days_left": 25
+    },
+    "description": "Analyzing long-term efficacy of new malaria vaccine candidates.",
+    "body": "Our research delves into the growing impacts of climate change on staple crops across varied geographies in East Africa. The study employs machine learning models trained on climatic, satellite, and crop-yield data spanning the past 30 years to understand and predict future agricultural trends. A key innovation lies in our integration of genomic data with environmental models to identify resilient crop varieties that thrive under extreme conditions. Collaborating with agricultural institutions and field workers, we collect real-time data from test farms to validate model predictions. We aim to produce an open-access decision support tool that guides farmers and policymakers in adapting to climate variability. Additional focus is placed on analyzing socio-economic impacts and ensuring solutions are accessible to smallholder farmers. By using predictive analytics and participatory research, this project aspires to offer climate-smart farming recommendations. Our broader goal is to mitigate food insecurity while empowering communities through knowledge, tools, and data-driven insights that encourage sustainable agriculture practices. This initiative is led by a multidisciplinary team of experts committed to advancing science through innovation and inclusive practices. The ongoing work has already attracted interest from key industry stakeholders and policy advocates.",
+    "illustration":"http://localhost:3001/images/project-image6.png",
+    "labNotes": [
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Stakeholder Review",
+        "description": "Presented findings to community partners and received constructive feedback."
+      },
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Clinical Validation",
+        "description": "Validated vaccine results with a test group over a 2-week trial period."
+      },
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Pilot Deployment",
+        "description": "Installed prototype devices in rural communities for performance monitoring."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Plastic Waste Biodegradation",
+    "researcher": {
+      "name": "Dr. Susan Kariuki",
+      "affiliation": "Kenyatta University",
+      "image": "http://localhost:3001/images/person-outline.png"
+    },
+    "image": "http://localhost:3001/images/spider2.png",
+    "funding": {
+      "percentage": 35,
+      "raised": 35000,
+      "goal": 100000,
+      "days_left": 18
+    },
+    "description": "Studying enzymes that naturally degrade plastics in landfills.",
+    "body": "This project is a groundbreaking initiative that merges artificial intelligence and biomedical research to transform how drugs are discovered and tested. Leveraging state-of-the-art generative algorithms, predictive analytics, and molecular simulation, our team has accelerated the identification and validation of potential drug candidates. This new framework not only reduces time-to-market but also improves cost efficiency in early-stage pharmaceutical research. Our approach prioritizes target specificity and minimizes adverse effects through rigorous simulation and preclinical validation. In partnership with several global research hubs and clinical laboratories, we have begun conducting trials on select compounds with promising results. The project also explores novel machine learning techniques to analyze large datasets of genomic and phenotypic information, further refining our predictions. As we enter the next phase of development, we are focused on building scalable pipelines, obtaining regulatory clearance, and fostering collaborative innovation. This is a crucial step toward democratizing access to affordable treatments worldwide and setting a new benchmark for intelligent healthcare solutions. This initiative is led by a multidisciplinary team of experts committed to advancing science through innovation and inclusive practices. The ongoing work has already attracted interest from key industry stakeholders and policy advocates.",
+    "illustration":"http://localhost:3001/images/project-image7.png",
+    "labNotes": [
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Sample Collection Phase",
+        "description": "Collected and cataloged environmental and biological samples from multiple field sites."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Blockchain for Healthcare Records",
+    "researcher": {
+      "name": "Prof. Daniel Mutua",
+      "affiliation": "Strathmore University",
+      "image": "http://localhost:3001/images/person-outline.png"
+    },
+    "image": "http://localhost:3001/images/background3.png",
+    "funding": {
+      "percentage": 95,
+      "raised": 95000,
+      "goal": 100000,
+      "days_left": 5
+    },
+    "description": "Building a secure, decentralized medical record system.",
+    "body": "Our research delves into the growing impacts of climate change on staple crops across varied geographies in East Africa. The study employs machine learning models trained on climatic, satellite, and crop-yield data spanning the past 30 years to understand and predict future agricultural trends. A key innovation lies in our integration of genomic data with environmental models to identify resilient crop varieties that thrive under extreme conditions. Collaborating with agricultural institutions and field workers, we collect real-time data from test farms to validate model predictions. We aim to produce an open-access decision support tool that guides farmers and policymakers in adapting to climate variability. Additional focus is placed on analyzing socio-economic impacts and ensuring solutions are accessible to smallholder farmers. By using predictive analytics and participatory research, this project aspires to offer climate-smart farming recommendations. Our broader goal is to mitigate food insecurity while empowering communities through knowledge, tools, and data-driven insights that encourage sustainable agriculture practices. This initiative is led by a multidisciplinary team of experts committed to advancing science through innovation and inclusive practices. The ongoing work has already attracted interest from key industry stakeholders and policy advocates.",
+    "illustration":"http://localhost:3001/images/project-image8.png",
+    "labNotes": [
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Data Preprocessing",
+        "description": "Performed statistical normalization and removed outliers from raw sensor data."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Machine Learning in Education",
+    "researcher": {
+      "name": "Dr. Carol Nyambura",
+      "affiliation": "Mount Kenya University",
+      "image": "http://localhost:3001/images/person-outline.png"
+    },
+    "image": "http://localhost:3001/images/bgResearch3.png",
+    "funding": {
+      "percentage": 68,
+      "raised": 68000,
+      "goal": 100000,
+      "days_left": 22
+    },
+    "description": "Improving student learning outcomes through AI models.",
+    "body": "This project is a groundbreaking initiative that merges artificial intelligence and biomedical research to transform how drugs are discovered and tested. Leveraging state-of-the-art generative algorithms, predictive analytics, and molecular simulation, our team has accelerated the identification and validation of potential drug candidates. This new framework not only reduces time-to-market but also improves cost efficiency in early-stage pharmaceutical research. Our approach prioritizes target specificity and minimizes adverse effects through rigorous simulation and preclinical validation. In partnership with several global research hubs and clinical laboratories, we have begun conducting trials on select compounds with promising results. The project also explores novel machine learning techniques to analyze large datasets of genomic and phenotypic information, further refining our predictions. As we enter the next phase of development, we are focused on building scalable pipelines, obtaining regulatory clearance, and fostering collaborative innovation. This is a crucial step toward democratizing access to affordable treatments worldwide and setting a new benchmark for intelligent healthcare solutions. This initiative is led by a multidisciplinary team of experts committed to advancing science through innovation and inclusive practices. The ongoing work has already attracted interest from key industry stakeholders and policy advocates.",
+    "illustration":"http://localhost:3001/images/project-image3.png",
+    "labNotes": [
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Stakeholder Review",
+        "description": "Presented findings to community partners and received constructive feedback."
+      },
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Clinical Validation",
+        "description": "Validated vaccine results with a test group over a 2-week trial period."
+      },
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Data Preprocessing",
+        "description": "Performed statistical normalization and removed outliers from raw sensor data."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Urban Air Quality Monitoring",
+    "researcher": {
+      "name": "Dr. Brian Kiptoo",
+      "affiliation": "Technical University of Kenya",
+      "image": "http://localhost:3001/images/person-outline.png"
+    },
+    "image": "http://localhost:3001/images/bgResearch8.png",
+    "funding": {
+      "percentage": 55,
+      "raised": 55000,
+      "goal": 100000,
+      "days_left": 12
+    },
+    "description": "Deploying sensors to track and improve air quality in cities.",
+    "body": "Our research delves into the growing impacts of climate change on staple crops across varied geographies in East Africa. The study employs machine learning models trained on climatic, satellite, and crop-yield data spanning the past 30 years to understand and predict future agricultural trends. A key innovation lies in our integration of genomic data with environmental models to identify resilient crop varieties that thrive under extreme conditions. Collaborating with agricultural institutions and field workers, we collect real-time data from test farms to validate model predictions. We aim to produce an open-access decision support tool that guides farmers and policymakers in adapting to climate variability. Additional focus is placed on analyzing socio-economic impacts and ensuring solutions are accessible to smallholder farmers. By using predictive analytics and participatory research, this project aspires to offer climate-smart farming recommendations. Our broader goal is to mitigate food insecurity while empowering communities through knowledge, tools, and data-driven insights that encourage sustainable agriculture practices. This initiative is led by a multidisciplinary team of experts committed to advancing science through innovation and inclusive practices. The ongoing work has already attracted interest from key industry stakeholders and policy advocates.",
+    "illustration":"http://localhost:3001/images/project-image9.png",
+    "labNotes": [
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Pilot Deployment",
+        "description": "Installed prototype devices in rural communities for performance monitoring."
+      },
+      {
+        "image": "http://localhost:3001/images/labnotes.png",
+        "title": "Sample Collection Phase",
+        "description": "Collected and cataloged environmental and biological samples from multiple field sites."
+      }
+    ]
+  }
+]
